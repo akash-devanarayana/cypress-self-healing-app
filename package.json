@@ -1,0 +1,22 @@
+{
+  "name": "cypress-self-healing",
+  "version": "1.0.0",
+  "description": "Self-healing test automation framework using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "testing",
+    "automation",
+    "self-healing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  }
+}
